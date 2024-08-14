@@ -1,12 +1,11 @@
 # People-Counting-in-Real-Time
-People Counting in Real-Time using live video stream/IP camera in OpenCV.
+Task 2 : People Counting in Real-Time using live video stream/IP camera in OpenCV.
 
 <div align="center">
 <img src=https://imgur.com/SaF1kk3.gif" width=550>
 <p>Live demo</p>
 </div>
 
-- The primary aim is to use the project as a business perspective, ready to scale.
 - Use case: counting the number of people in the stores/buildings/shopping malls etc., in real-time.
 - Automating features and optimising the real-time stream for better performance (with threading).
 --- 
@@ -179,3 +178,5 @@ if num_seconds > 28800:
 - Schedule: https://pypi.org/project/schedule/
 
 ---
+Contact : Swapnil raibole , 
+Swapnilraibole107@gmail.com/9322010868
